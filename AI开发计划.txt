@@ -1,0 +1,13 @@
+1：掌握pytorch框架使用
+2：熟练使用python语言开发
+3：搭建开发服务器（使用linux环境）
+4：搭建anaconda开发环境
+4：搭建开发环境pycharm
+4：使用pyqt5开发UI界面
+5：开发label图像训练工具（生成AI检测模型）
+6：开发检查片AI检测应用程序
+7：基于pytorch开发目标分类任务
+8：基于pytorch开发目标检测任务
+9：使用opencv和pytorch开发电池片缺陷检测程序
+10：基于pytorch开发 Faster R-CNN, SSD,  YOLO 系列模型并调试
+11：电池片进行训练集和测试集分类，对训练集进行有监督训练，生成模型，然后使用测试集验证模型，并调节模型参数和模型
